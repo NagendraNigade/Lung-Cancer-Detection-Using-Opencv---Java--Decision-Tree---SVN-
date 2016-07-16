@@ -1,3 +1,11 @@
+Aim : To identify the cancer from Magnetic resonance imaging (MRI).
+
+This project will help diagnostic centres , doctors to identify the cancer from image & reduce the human errors in identifying.
+
+Code written in c++ using opencv to capture important parameters from image like Count of tumours , Size of tumours , Maximum size of tumours. All this parameters were written to text file.
+
+Java code applies machine learning algorithms (SVN , Decision Tree) to file created by image processing. And depends on the training set output is predicted. 
+ 
 
 Editor Used :
 
